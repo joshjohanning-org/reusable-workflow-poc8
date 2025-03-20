@@ -78,3 +78,4 @@ jobs:
         path: ${{ inputs.build-tool == 'maven' && '**/surefire-reports/*.xml' || '**/test-results/**/*.xml' }}
         reporter: java-junit
         fail-on-error: false
+#
