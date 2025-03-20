@@ -26,4 +26,6 @@ I need to create a GitHub Actions workflow for my repository. Here are the stand
 10. Where possible, use reusable workflows to avoid duplication and improve maintainability.
 11. Where possible, use internal Actions vs. marketplace Actions to avoid security issues.
 12. When referring to marketplace Actions, always use a specific commit SHA or version tag instead of a tag or branch name for security reasons.
-#
+
+
+_last updated: 2025-03-20 15:56:48_
